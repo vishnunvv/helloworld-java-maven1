@@ -40,15 +40,15 @@
   
 <distributionManagement>
 	<repository>
-		<id>tata</id>
-		<name>Internal Releases</name>
-		<url>http://13.233.19.201:8081/nexus/content/repositories/yoodlex/</url>
+		<id>deployment</id>
+		<name>Internal Releases1</name>
+		<url>http://206.189.125.113:8081/nexus/content/repositories/dp/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>tata</id>
+		<id>deployment</id>
 		<name>Internal Releases</name>
-		<url>http://13.233.19.201:8081/nexus/content/repositories/yoodlex/</url>
+		<url>http://206.189.125.113:8081/nexus/content/repositories/dpsnap</url>
 	</snapshotRepository>
 
 </distributionManagement>
